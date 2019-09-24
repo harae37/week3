@@ -31,7 +31,7 @@ words[24] = "Quiche"
 words[25] = "Dakgalbi"
 words[26] = "Korean Bbq"
 words[27] = "Starve-to-death"
-words[28] = "Tofu stew"
+words[28] = "Poke"
 
 
 
